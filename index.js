@@ -8,6 +8,7 @@ require('./services/passport');
 
 mongoose.connect(keys.mongoURI);
 
+// app is created by the express library.
 const app = express();
 
 // Tell express to make use of cookies inside application
