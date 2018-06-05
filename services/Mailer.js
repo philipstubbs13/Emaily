@@ -53,7 +53,7 @@ class Mailer extends helper.Mail {
 
 module.exports = Mailer;
 
-//Testing email sending
+//Testing email sending with Chrome Dev Tools
 // const survey = {
 //     title: 'my title',
 //     subject: 'my subject',
