@@ -13,7 +13,7 @@ export default [
         noValueError: 'You must provide an email body.'
     }, {
         label: 'Recipient List',
-        name: 'emails',
+        name: 'recipients',
         noValueError: 'You must provide a list of recipients.'
     }
 ]
